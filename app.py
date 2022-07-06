@@ -23,7 +23,9 @@ st.write('On can invest in real estate by;')
 st.write('1.	 Owning rental properties.')
 st.write('Owning rental properties can be a great opportunity for individuals who have do-it-yourself (DIY) renovation skills and the patience to manage tenants. However, this strategy does require substantial capital to finance upfront maintenance costs and to cover vacant months.')
 st.write('   advantages')
-st.write('•	Provides regular income and properties can appreciate•	Maximizes capital through leverage•	Many tax-deductible associated expenses')
+st.write('•	Provides regular income and properties can appreciate')
+        ('•	Maximizes capital through leverage')
+        ('•	Many tax-deductible associated expenses')
 
 
 
