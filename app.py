@@ -7,4 +7,16 @@ st.write('An asset acquired or invested in to build wealth and save money from t
 st.header('Types of investments.')
 st.write('1.Growth investments')
 st.write ('They are more suitable for long term investors that are willing and able to withstand market ups and downs.')
-st.write('Shares are considered a growth investment as they can help grow the value of your original investment over the medium to long term.If you own shares, you may also receive income from dividends, which are effectively a portion of a company’s profit paid out to its shareholders.Of course, the value of shares may also fall below the price you pay for them. Prices can be volatile from day to day and shares are generally best suited to long term investors, who arecomfortable withstanding these ups and downs.Also known as equities, shares have historically delivered higher returns than other assets, shares are considered one of the riskiest types of investment.')
+st.write('2.Shares')
+st.write('Shares are considered a growth investment as they can help grow the value of your original investment over the medium to long term.If you own shares, you may also receive income from dividends, which are effectively a portion of a company’s profit paid out to its shareholders.Of course, the value of shares may also fall below the price you pay for them. Prices can be volatile from day to day and shares are generally best suited to long term investors, who arecomfortable withstanding these ups and downs.Also known as equities, shares have historically delivered higher returns than other assets, shares are one of the riskiest types of investment')
+st.write('3.property')
+st.write('Property is also considered as a growth investment because the price of houses and other properties can rise substantially over a medium to long term period.However, just like shares, property can also fall in value and carries the risk of losses.It is possible to invest directly by buying a property but also indirectly, through a property investment fund.')
+st.write('4.defensive investments')
+st.write('These are more focused on consistently generating income, rather than growth, and are considered lower risk than growth investments.')
+st.write('5.Cash')
+st.write('Cash investments include everyday bank accounts, high interest savings accounts and term deposits.They typically carry the lowest potential returns of all the investment types.While they offer no chance of capital growth, they can deliver regular income and can play an important role in protecting wealth and reducing risk in an investment portfolio.')
+st.write('6.Fixed interest')
+st.write('The best-known type of fixed interest investments are bonds, which are essentially when governments or companies borrow money from investors and pay them a rate of interest in return.Bonds are also considered as a defensive investment, because they generally offer lower potential returns and lower levels of risk than shares or property.They can also be sold relatively quickly, like cash, although it’s important to note that they are not without the risk of capital losses.')
+
+
+
