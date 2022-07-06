@@ -26,6 +26,11 @@ st.write('   advantages')
 st.write('•	Provides regular income and properties can appreciate')
 st.write('•Maximizes capital through leverage')
 st.write('•	Many tax-deductible associated expenses')
+st.write('disadvantages')
+st.write('•	Managing tenants can be tedious')
+st.write('•	Potentially damage property from tenants')
+st.write('•	Reduced income from potential vacancies')
+
 
 
 
