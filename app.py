@@ -17,6 +17,13 @@ st.write('5.Cash')
 st.write('Cash investments include everyday bank accounts, high interest savings accounts and term deposits.They typically carry the lowest potential returns of all the investment types.While they offer no chance of capital growth, they can deliver regular income and can play an important role in protecting wealth and reducing risk in an investment portfolio.')
 st.write('6.Fixed interest')
 st.write('The best-known type of fixed interest investments are bonds, which are essentially when governments or companies borrow money from investors and pay them a rate of interest in return.Bonds are also considered as a defensive investment, because they generally offer lower potential returns and lower levels of risk than shares or property.They can also be sold relatively quickly, like cash, although it’s important to note that they are not without the risk of capital losses.')
+st.header('Examples of investment opportunities.')
+st.sub_header('1.Real Estate.')
+st.write('On can invest in real estate by;')
+st.write('1.	 Owning rental properties.')
+st.write('Owning rental properties can be a great opportunity for individuals who have do-it-yourself (DIY) renovation skills and the patience to manage tenants. However, this strategy does require substantial capital to finance upfront maintenance costs and to cover vacant months.')
+st.write('   advantages')
+st.write('•	Provides regular income and properties can appreciate•	Maximizes capital through leverage•	Many tax-deductible associated expenses')
 
 
 
