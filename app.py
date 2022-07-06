@@ -35,7 +35,7 @@ st.write('Venture capital (VC) is a form of private equity and a type of financi
 
 
 
-#st.write('Investment opportunities are many and diverse. An investment decision should be made on the basis of one’s interest as any decision well managed, profits are well earned.')
+st.write('Investment opportunities are many and diverse. An investment decision should be made on the basis of one’s interest as any decision well managed, profits are well earned.')
 
 
 
