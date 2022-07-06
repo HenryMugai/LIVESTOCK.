@@ -22,14 +22,19 @@ st.header('1.Real Estate.')
 st.write('On can invest in real estate by;')
 st.write('1.	 Owning rental properties.')
 st.write('Owning rental properties can be a great opportunity for individuals who have do-it-yourself (DIY) renovation skills and the patience to manage tenants. However, this strategy does require substantial capital to finance upfront maintenance costs and to cover vacant months.')
-st.write('   advantages')
-st.write('•	Provides regular income and properties can appreciate')
-st.write('•Maximizes capital through leverage')
-st.write('•	Many tax-deductible associated expenses')
-st.write('disadvantages')
-st.write('•	Managing tenants can be tedious')
-st.write('•	Potentially damage property from tenants')
-st.write('•	Reduced income from potential vacancies')
+st.write('2.	 Real Estate Investment Groups (REIGs)')
+st.write(' Real estate investment groups (REIGs) are ideal for people who want to own rental real estate without the hassles of running it. Investing in REIGs requires a capital cushion and access to financing. REIGs are like small mutual funds that invest in rental properties.5 In a typical real estate investment group, a company buys or builds a set of apartment blocks or condos, then allows investors to purchase them through the company, thereby joining the group.A single investor can own one or multiple units of self-contained living space, but the company operating the investment group collectively manages all of the units, handling maintenance, advertising vacancies, and interviewing tenants. In exchange for conducting these management tasks, the company takes a percentage of the monthly rent.A standard real estate investment group lease is in the investor’s name, and all of the units pool a portion of the rent to guard against occasional vacancies. To this end, you will receive some income even if your unit is empty. As long as the vacancy rate for the pooled units doesn’t spike too high, there should be enough to cover costs.')
+st.write('3.	Real Estate Investment Trusts (REITs)')
+st.write('A real estate investment trust (REIT) is best for investors who want portfolio exposure to real estate without a traditional real estate transaction.A REIT is created when a corporation (or trust) uses investors’ money to purchase and operate income properties. REITs are bought and sold on the major exchanges, like any other stock.6A corporation must payout 90% of its taxable profits in the form of dividends in order to maintain its REIT status. By doing this, REITs avoid paying corporate income tax, whereas a regular company would be taxed on its profits and then have to decide whether or not to distribute its after-tax profits as dividends.')
+st.header('2.Agriculture.')
+st.write('it is a low-risk investment that keeps pace with inflation and increases in value over the long-term. It is a tangible asset that provides benefit to the community, and it can diversify a portfolio.In agriculture, one can decide to opt into crop-farming or animal farming depending on the interests.')
+st.write('In animal farming, there is farm ownership whereby the farm produces all animal products and sell them to those in need. One can decide to fulfill the entire market chain that is produce, manufacture, and sell. This type of investment is highly productive as there is maximum supervision and benefit reaping.')
+st.write('In crop production, this requires large areas of land to host the crops. With interests, one can choose the type of crops he/she feels comfortable with.')
+st.header('3.Venture capital.')
+st.write('Venture capital (VC) is a form of private equity and a type of financing that investors provide to start up companies and small businesses that are believed to have long-term growth potential. Venture capital generally comes from well-off investors, investment banks, and any other financial institutions.')
+
+st.write('Investment opportunities are many and diverse. An investment decision should be made on the basis of one’s interest as any decision well managed, profits are well earned.')
+
 
 
 
