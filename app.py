@@ -1,3 +1,5 @@
+import streamlit as st
+import panda as pd 
 import streamlit as st 
 
 
