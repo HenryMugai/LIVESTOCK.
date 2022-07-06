@@ -33,6 +33,10 @@ st.write('In crop production, this requires large areas of land to host the crop
 st.header('3.Venture capital.')
 st.write('Venture capital (VC) is a form of private equity and a type of financing that investors provide to start up companies and small businesses that are believed to have long-term growth potential. Venture capital generally comes from well-off investors, investment banks, and any other financial institutions.')
 
+
+
+
+
 st.write('Investment opportunities are many and diverse. An investment decision should be made on the basis of one’s interest as any decision well managed, profits are well earned.')
 
 
